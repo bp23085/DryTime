@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\sasaryo\\IdeaProjects\\oop2-final-bp23085\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\sasaryo\\IdeaProjects\\oop2-final-bp23085\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/sasaryo/IdeaProjects/oop2-final-bp23085/./frontend/generated/jar-resources",
+  "themeName": "oop2-app",
+  "clientServiceWorkerSource": "C:\\Users\\sasaryo\\IdeaProjects\\oop2-final-bp23085\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
